@@ -19,6 +19,7 @@
   margin: 100px auto 20px;
   padding: 40px 30px 70px;
   border-radius: 10px;
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.199);
 }
 
 .todo-app h2 {
@@ -54,7 +55,7 @@ input {
 button {
   border: none;
   outline: none;
-  padding: 16px 50px;
+  padding: 12px 30px;
   background: #ff5945;
   color: #fff;
   font-size: 16px;

@@ -11,7 +11,7 @@ const addTask = () => {
     li.innerHTML = inputBox.value;
     listContainer.appendChild(li);
 
-    // Add icon to each li - CHANGE THIS LATER?
+    // Add icon to each li
     let span = document.createElement('span');
     span.innerHTML = '\u00d7';
     li.appendChild(span);
